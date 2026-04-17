@@ -27,6 +27,9 @@ Achieved upto ~91.94% accuracy
 FINAL RESULTS:
 Some results based on the attributes used for the task :
 <img width="561" height="307" alt="image" src="https://github.com/user-attachments/assets/67d99f3e-3ee2-4892-98ff-c5c4f1140df1" />
+<img width="576" height="348" alt="image" src="https://github.com/user-attachments/assets/fd607357-ff8e-4604-95ff-acbb984801d3" />
+<img width="567" height="340" alt="image" src="https://github.com/user-attachments/assets/c3829562-2d73-4d95-ae59-1ddd9c0f734c" />
+<img width="538" height="357" alt="image" src="https://github.com/user-attachments/assets/9846a36b-9a6e-4a5b-99e1-153889141dd3" />
 
 
 
