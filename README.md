@@ -1,4 +1,41 @@
 # CODING-SAMURAI-INTERNSHIP-TASK
+
+**TASK 1:Predict House Prices Using Linear Regression**
+
+A Leel 1:beginner project to predict house prices using Linear Regression based on various factors such as square footage, number of bedrooms, location, and more. This project walks through data exploration, visualization, linear regression, and gradient boosting to achieve high model accuracy.
+
+
+This dataset used for this Task 1: "Predict House Prices Using Linear Regression" contains details of house listings including:
+
+Number of bedrooms and bathrooms
+Square footage (with and without basement)
+Waterfront presence
+Location via latitude and longitude
+Zipcode
+Year built and renovated
+Price of the house
+
+Key highlights of the Task 1:
+Models Used
+🔹 Linear Regression
+First model used to understand relationships in data
+Achieved ~73% accuracy
+🔹 Gradient Boosting Regressor
+Powerful ensemble model using decision trees
+Achieved upto ~91.94% accuracy
+
+FINAL RESULTS:
+Some results based on the attributes used for the task :
+<img width="561" height="307" alt="image" src="https://github.com/user-attachments/assets/67d99f3e-3ee2-4892-98ff-c5c4f1140df1" />
+
+
+
+
+
+
+
+**TASK 2:Sentiment Analysis on Tweets**
+
 Machine Learning Internship Program by "CODING SAMURAI" 
 This task proposes a semi-supervised sentiment analysis framework to classify public sentiments expressed in YouTube comments regarding the Air India Flight 171 crash in Ahmedabad, India. Using SBERT embeddings and a Random
 Forest classifier with self-training, the model effectively leverages both labelled and unlabelled data. Experimental results demonstrate an accuracy of 90%, highlighting the potential of semi supervised learning for analysing large-scale, noisy social media data in crisis scenarios.
